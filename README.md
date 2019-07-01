@@ -1,6 +1,6 @@
 # ModestExConcurrency
 
-**TODO: Add description**
+A repository to show [this problem](https://github.com/f34nk/modest_ex/issues/17).
 
 ## Installation
 
